@@ -1,4 +1,5 @@
 NFC Reader For Kentkart 🚌📱
+
 NFC teknolojisi aracılığıyla Kentkart'tan (İzmir ve diğer şehirlerde kullanılan toplu taşıma kartları) veri okumak ve çıkarmak için tasarlanmış bir uygulama.
 
 📖 Genel Bakış
