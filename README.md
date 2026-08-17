@@ -30,3 +30,7 @@ NFC özellikli bir mobil cihaz VEYA USB NFC Okuyucu (ör. ACR122U).
 Uygun geliştirme ortamı (Android Studio, VS Code vb.).
 
 Test için fiziksel bir Kentkart.
+
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e46c0422-886c-4b68-9e6d-0a4c17f94c94" />
+
